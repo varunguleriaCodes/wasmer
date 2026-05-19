@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["Interrupter","Store","StoreHandle","StoreId","StoreObjects"],"trait":["NativeStoreExt"]};
